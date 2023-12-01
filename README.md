@@ -1,3 +1,7 @@
+# Current Status
+
+This repository has been archived due to no longer having relevant use in the current state of Connie.
+
 #  🖥️ 💬 Connie Web-chat UI Demo
 
 This is a demo-only web app to demonstrate web-chat features of the Connie Enterprise web based chat feature. This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
